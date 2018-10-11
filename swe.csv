@@ -410,36 +410,36 @@ Konfiskering"
 "news:DIPLOMAT_FIRST","Normalizing Trade Top Issue","Normalizing Trade Top Issue"
 "news:BUSTED_SPY","Top-level Kolechian Exposed as Arstotzkan Spy!","Top-level Kolechian Exposed as Arstotzkan Spy!"
 "news:BUSTED_SPY","Missing From Post, Presumed Dead","Missing From Post, Presumed Dead"
-"news:BUSTED_SPY_GAVEREALDOCS","Kolechia Cleans House - Eliminates Arstotzkan Spies","Kolechia Cleans House - Eliminates Arstotzkan Spies"
-"news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","Heroic Agents Compromised"
-"news:BUSTED_SPY_GAVEFAKEDOCS","Kolechia Cleans House - Attacks Its Own!","Kolechia Rensar Hus - Attackerar Deras Egna!"
+"news:BUSTED_SPY_GAVEREALDOCS","Kolechia Cleans House - Eliminates Arstotzkan Spies","Kolechia rensar hus - eliminerar våra spioner!"
+"news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","Heroiska agenter kompromissad"
+"news:BUSTED_SPY_GAVEFAKEDOCS","Kolechia Cleans House - Attacks Its Own!","Kolechia rensar hus - attackerar deras egna!"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Round Of Disappearances Blamed On Faulty Evidence","Round Of Disappearances Blamed On Faulty Evidence"
-"news:FORGERY_NEWS","Theft At Ministry Of Admission!","Theft At Ministry Of Admission!"
-"news:FORGERY_NEWS","Limited Effects - Few Items Stolen","Limited Effects - Few Items Stolen"
-"news:SECRET_SOCIETY","The History of Arstotzka","The History of Arstotzka"
-"news:SECRET_SOCIETY","In Pictures and Words - Mostly Words","In Pictures and Words - Mostly Words"
-"news:CRIMINAL_ACTIVITY","A Criminal's Safe Haven","A Criminal's Safe Haven"
-"news:CRIMINAL_ACTIVITY","Arstotzka Earns Dubious Reputation","Arstotzka Earns Dubious Reputation"
-"news:LOSING_GUARDS","Ministries Fight Over Staff","Ministries Fight Over Staff"
-"news:LOSING_GUARDS","Qualified Guards, Soldiers In Demand","Qualified Guards, Soldiers In Demand"
+"news:FORGERY_NEWS","Theft At Ministry Of Admission!","Stöld vid Upptagningsministeriet!"
+"news:FORGERY_NEWS","Limited Effects - Few Items Stolen","Begränsade effekter - några saker stulen"
+"news:SECRET_SOCIETY","The History of Arstotzka","Arstotzkas historik"
+"news:SECRET_SOCIETY","In Pictures and Words - Mostly Words","I bilder och ord, mestadels ord."
+"news:CRIMINAL_ACTIVITY","A Criminal's Safe Haven","Ett kriminella tillflyktsort"
+"news:CRIMINAL_ACTIVITY","Arstotzka Earns Dubious Reputation","Arstotzka får ifrågsättbar rykte"
+"news:LOSING_GUARDS","Ministries Fight Over Staff","Departementet slåss över personal"
+"news:LOSING_GUARDS","Qualified Guards, Soldiers In Demand","Kvalificerad vakter, soldater i behov"
 "news:LOSING_GUARDS","Consolidation, Reassignment At Border","Consolidation, Reassignment At Border"
 "news:LOSING_GUARDS","Still Safe With Smaller Detail?","Still Safe With Smaller Detail?"
 "news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","Grestin Incident Highlights Security Risks"
 "news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","Further Breaches Predicted"
 "news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","Daring Bike Attack At Grestin Checkpoint!"
 "news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","Extremists Growing Bolder - Grestin Like Magnet"
-"news:BORDER_TARGETED","Can The Wall Hold?","Can The Wall Hold?"
-"news:BORDER_TARGETED","Border Safety Continually Questioned","Border Safety Continually Questioned"
+"news:BORDER_TARGETED","Can The Wall Hold?","Klarar väggen sig?"
+"news:BORDER_TARGETED","Border Safety Continually Questioned","Gränssäkerhet ifrågasatt hela tiden"
 "news:BIKERUNNER_NEWS","Coordinated Border Breach!","Coordinated Border Breach!"
 "news:BIKERUNNER_NEWS","Unknown Assailants Swamp Security","Unknown Assailants Swamp Security"
-"news:NOSY_JOURNALIST_APPROVED","Arstotzka's Frail Border","Arstotzka's Frail Border"
-"news:NOSY_JOURNALIST_APPROVED","United Fed Reporter Exposes Lax Protocols","United Fed Reporter Exposes Lax Protocols"
-"news:NOSY_JOURNALIST_DENIED","Arstotzka's Iron Border","Arstotzka's Iron Border"
+"news:NOSY_JOURNALIST_APPROVED","Arstotzka's Frail Border","Arstotzkas svaga landgräns"
+"news:NOSY_JOURNALIST_APPROVED","United Fed Reporter Exposes Lax Protocols","United Fed journalist exponerar dåliga protokoll"
+"news:NOSY_JOURNALIST_DENIED","Arstotzka's Iron Border","Arstotzkas järnhårda landgräns"
 "news:NOSY_JOURNALIST_DENIED","Int. Media Reveals Entry Visa Bias","Int. Media Reveals Entry Visa Bias"
 "news:IDSUPPLEMENT_INTRO","Another Bomber Slips Through!","Another Bomber Slips Through!"
 "news:IDSUPPLEMENT_INTRO","Immigrant Screening Falls Short","Immigrant Screening Falls Short"
-"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","ATF får ny direktör"
-"news:IDSUPPLEMENT_INTRO","Stricter Protocols Promised at Border","Stricter Protocols Promised at Border"
+"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","ATD får ny direktör"
+"news:IDSUPPLEMENT_INTRO","Stricter Protocols Promised at Border","Strikare protokoll lovad vid landgräns."
 "news:WHISTLEBLOWER_SETUP0","Antegria Domestic Spying Exposed!","Antegria Domestic Spying Exposed!"
 "news:WHISTLEBLOWER_SETUP0","Whistleblower On The Run","Whistleblower On The Run"
 "news:WHISTLEBLOWER_SETUP1","Antegrian Whistleblower Denied Asylum In Republia","Antegrian Whistleblower Denied Asylum In Republia"
@@ -490,11 +490,11 @@ Konfiskering"
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","skapad av Lucas Pope"
 "text:papers_please","Papers, please.","Dokument, tack."
-"text:protocol_violated","Protocol Violated.","Protocol Violated."
-"text:unauth_confiscation","Unauthorized passport confiscation","Unauthorized passport confiscation"
-"text:missing_reason","Denial reason not given","Denial reason not given"
-"text:citation_warning","WARNING ISSUED - NO PENALTY","WARNING ISSUED - NO PENALTY"
-"text:citation_lastwarning","LAST WARNING - NO PENALTY","LAST WARNING - NO PENALTY"
+"text:protocol_violated","Protocol Violated.","Protokoll bruten."
+"text:unauth_confiscation","Unauthorized passport confiscation","Oauktoriserat konfiskering av passport"
+"text:missing_reason","Denial reason not given","Anledning för förnekelse inte given"
+"text:citation_warning","WARNING ISSUED - NO PENALTY","VARNING GIVEN - INGA BÖTER"
+"text:citation_lastwarning","LAST WARNING - NO PENALTY","SISTA VARNING - INGA BÖTER"
 "text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","PENALTY ASSESSED - $0 CREDITS"
 "text:border_next","NEXT!","NÄSTA!"
 "text:border_bomber","FOR KOLECHIA!","FÖR KOLECHIA!"
@@ -1213,7 +1213,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Entry Ticket","Entry Ticket"
 "facts","Entry Permit","Entry Permit"
 "facts","Work Pass","Work Pass"
-"facts","Id Card","Id Card"
+"facts","Id Card","ID kort"
 "facts","Id Supplement","Id Supplement"
 "facts","Access Permit","Access Permit"
 "facts","Diplomatic Auth","Diplomatic Auth"
@@ -1221,8 +1221,8 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Vaccine Cert","Vaccine Cert"
 "facts","Identity Record","Identity Record"
 "facts","Fingerprints","Fingerprints"
-"facts","Name","Name"
-"facts","Id Number","Id Number"
+"facts","Name","Namn"
+"facts","Id Number","ID nummer"
 "facts","Expiration Date","Expiration Date"
 "facts","Issuing City","Issuing City"
 "facts","Birth Date","Birth Date"
@@ -1246,24 +1246,24 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Lendiforma","Lendiforma"
 "facts","Wozenfield","Wozenfield"
 "facts","Fardesto","Fardesto"
-"facts","DENTISTRY","DENTISTRY"
-"facts","HEALTH-CARE","HEALTH-CARE"
+"facts","DENTISTRY","TANDVÅRD"
+"facts","HEALTH-CARE","HÄLSOVÅRD"
 "facts","GENERAL-LABOR","GENERAL-LABOR"
-"facts","ENGINEERING","ENGINEERING"
-"facts","SPORTS","SPORTS"
+"facts","ENGINEERING","INGENGÖRTEKNIK"
+"facts","SPORTS","SPORT"
 "facts","ARCHITECTURE","ARCHITECTURE"
 "facts","FOOD-SERVICE","FOOD-SERVICE"
-"facts","AVIATION","AVIATION"
+"facts","AVIATION","FLYG"
 "facts","ACCOUNTING","ACCOUNTING"
-"facts","FISHING","FISHING"
+"facts","FISHING","FISKE"
 "facts","DRAFTING","DRAFTING"
-"facts","RESEARCH","RESEARCH"
+"facts","RESEARCH","FORSKNING"
 "facts","FINE-ARTS","FINE-ARTS"
 "facts","AGRICULTURE","AGRICULTURE"
 "facts","MANUFACTURING","MANUFACTURING"
 "facts","CONSTRUCTION","CONSTRUCTION"
 "facts","SURVEYING","SURVEYING"
-"facts","STATISTICS","STATISTICS"
+"facts","STATISTICS","STATISTIK"
 "facts","POLIO","POLIO"
 "facts","HPV","HPV"
 "facts","COWPOX","COWPOX"
@@ -1274,14 +1274,14 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","HEP-B","HEP-B"
 "facts","MEASLES","MEASLES"
 "facts","TUBERC.","TUBERC."
-"facts","2 DAYS","2 DAYS"
-"facts","14 DAYS","14 DAYS"
-"facts","1 MONTH","1 MONTH"
-"facts","2 MONTHS","2 MONTHS"
-"facts","3 MONTHS","3 MONTHS"
-"facts","6 MONTHS","6 MONTHS"
-"facts","1 YEAR","1 YEAR"
-"facts","FOREVER","FOREVER"
+"facts","2 DAYS","2 DAGAR"
+"facts","14 DAYS","14 DAGAR"
+"facts","1 MONTH","1 MÅNAD"
+"facts","2 MONTHS","2 MÅNADER"
+"facts","3 MONTHS","3 MÅNADER"
+"facts","6 MONTHS","6 MÅNADER"
+"facts","1 YEAR","1 ÅR"
+"facts","FOREVER","FÖR EVIGT"
 "facts","visit","visit"
 "facts","transit","transit"
 "facts","work","work"
@@ -1361,17 +1361,17 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "paper:Rules","Diplomatic Auth.","Diplomatic Auth."
 "paper:Rules","Grant of Asylum","Grant of Asylum"
 "paper:Rules","Vaccine Cert.","Vaccine Cert."
-"intro","Congratulations.","Congratulations."
-"intro","The October labor lottery is complete. Your name was pulled.","The October labor lottery is complete. Your name was pulled."
-"intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint."
-"intro","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling."
-"intro","Glory to Arstotzka.","Glory to Arstotzka."
-"end:in-debt","Arstotzka has zero tolerance for delinquency.","Arstotzka has zero tolerance for delinquency."
-"end:in-debt","Your family will be sent back to their village.","Your family will be sent back to their village."
-"end:in-debt","You are under arrest until your debts are repaid.","You are under arrest until your debts are repaid."
-"end:in-debt","A replacement inspector will be found easily.","A replacement inspector will be found easily."
-"end:in-debt","Glory to Arstotzka.","Glory to Arstotzka."
-"end:family-dead","Your entire family is gone.","Your entire family is gone."
+"intro","Congratulations.","Congratulerar."
+"intro","The October labor lottery is complete. Your name was pulled.","The October arbetslotteriet är klar. Ditt namn var draget."
+"intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","För omedelbar placering, anmäl dig till Upptagningsministeriet vid Grestin Landsgräns."
+"intro","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.","Ett lägenhet kommer att bli försedd till dig och din familj i Östra Grestin. Förvänta dig en klass 8 bostad."
+"intro","Glory to Arstotzka.","Ära till Arstotzka."
+"end:in-debt","Arstotzka has zero tolerance for delinquency.","Arstotzka har nolltolerans för brottslighet."
+"end:in-debt","Your family will be sent back to their village.","Din familj kommer att vara skickad tillbaks till deras by."
+"end:in-debt","You are under arrest until your debts are repaid.","Du är anhållen tills dina skulder är återbetald."
+"end:in-debt","A replacement inspector will be found easily.","En ersättning kommer att hittas enkelt."
+"end:in-debt","Glory to Arstotzka.","Ära till Arstotzka."
+"end:family-dead","Your entire family is gone.","Hela din familj är död."
 "end:family-dead","The Ministry Of Labor focuses on Arstotzka's future growth.","The Ministry Of Labor focuses on Arstotzka's future growth."
 "end:family-dead","Workers are expected to support large healthy families.","Workers are expected to support large healthy families."
 "end:family-dead","Your position will be filled by someone more appropriate.","Your position will be filled by someone more appropriate."
@@ -1612,23 +1612,22 @@ WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
 HELP US FREE ARSTOTZKA FROM ITS SHACKLES
 
 
-* THE ORDER OF THE EZIC STAR","ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
+* THE ORDER OF THE EZIC STAR","ARSTOTZKA ÄR BRA LAND FÖRGIFTAD AV KORRUPTA LEDARE
 
-WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
+KRIG HAR GJORT REGERINGEN GIRIG OCH RÄDD - DU HAR SETT DETT FÖR DIG SJÄLV
 
-HELP US FREE ARSTOTZKA FROM ITS SHACKLES
+HJÄLP OSS FRIGÖRA ARSTOTZKA FRÅN SINA FJÄTTRAR
 
-
-* THE ORDER OF THE EZIC STAR"
+* ORDNINGEN AV EZIC STJÄRNAN"
 "note:EZIC_HANDLER_POST0","FIRST AGENT WAS DENIED
 
 SECOND WILL COME IN THREE DAYS
 
-DO NOT MAKE SAME MISTAKE","FIRST AGENT WAS DENIED
+DO NOT MAKE SAME MISTAKE","FÖRSTA AGENT VAR FÖRNEKAD
 
-SECOND WILL COME IN THREE DAYS
+ANDRA KOMMER OM TRE DAGAR
 
-DO NOT MAKE SAME MISTAKE"
+GÖR INTE SAMMA MISSTAG"
 "note:EZIC_HANDLER_PRE1","LARGE GIFT WAS MISTAKE
 
 MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
@@ -1637,63 +1636,63 @@ NEXT AGENT COMES TODAY
 
 WILL SOLVE PROBLEM
 
-DENY AT OWN RISK","LARGE GIFT WAS MISTAKE
+DENY AT OWN RISK","STOR PRESENT VAR MISSTAG
 
-MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
+INFORMATIONSMINISTERIET UNDERSÖKER DIN KOPPLING TILL EZIC
 
-NEXT AGENT COMES TODAY
+NÄSTA AGENT KOMMER IDAG
 
-WILL SOLVE PROBLEM
+KOMMER LÖSA PROBLEM
 
-DENY AT OWN RISK"
+NEKA VID EGEN RISK"
 "note:EZIC_HANDLER_POST1","BOTH AGENTS WERE DENIED
 
 WE CANNOT SUCCEED WITHOUT YOUR HELP
 
 WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","BOTH AGENTS WERE DENIED
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","BÅDA AGENTER VAR FÖRNEKAD
 
-WE CANNOT SUCCEED WITHOUT YOUR HELP
+VI KLARAR INTE OSS UTAN DIN HJÄLP
 
-WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+NÄR ARSTOTZKA FÖDDES, EZIC UPPFYLLDE SAMMA ROLL SOM IDAG
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN"
+NÄR TYRANNI SLUTAR FÖRSVINNER VI IGEN"
 "note:EZIC_HANDLER_POST1","ONLY ONE AGENT APPROVED
 
 WE CANNOT SUCCEED WITHOUT YOUR HELP
 
 WHEN ARSTOTZKA WAS BORN ,THE ORDER FULFILLED SAME ROLE AS TODAY
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","ONLY ONE AGENT APPROVED
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","ENDAST EN AGENT VAR GODKÄND
 
-WE CANNOT SUCCEED WITHOUT YOUR HELP
+VI KLARAR INTE OSS UTAN DIN HJÄLP
 
-WHEN ARSTOTZKA WAS BORN ,THE ORDER FULFILLED SAME ROLE AS TODAY
+NÄR ARSTOTZKA FÖDDES, EZIC UPPFYLLDE SAMMA ROLL SOM IDAG
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN"
+NÄR TYRANNI SLUTAR FÖRSVINNER VI IGEN"
 "note:EZIC_HANDLER_POST1","YOU HAVE DONE WELL
 
 BOTH AGENTS NOW OPERATING
 
 WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","YOU HAVE DONE WELL
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","DU HAR GJORT BRA
 
-BOTH AGENTS NOW OPERATING
+BÅDA AGENTER ÄR I RÖRELSELE
 
-WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+NÄR ARSTOTZKA FÖDDES, EZIC UPPFYLLDE SAMMA ROLL SOM IDAG
 
-WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN"
+NÄR TYRANNI SLUTAR FÖRSVINNER VI IGEN"
 "note:EZIC_HANDLER_EXT","BORDER ATTACKS ARE NOT EZIC OPERATIONS
 
 UNKNOWN EXTREMIST GROUPS RESPONSIBLE
 
-THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","BORDER ATTACKS ARE NOT EZIC OPERATIONS
+THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","GRÄNSATTACKER INTE EZIC OPERATIONER
 
-UNKNOWN EXTREMIST GROUPS RESPONSIBLE
+OKÄNDA EXTREMISTISKA GRUPPER ANSVARIG
 
-THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS"
+EZIC SYFTAR ATT FÖRSVAGA KORRUPTA CENTRALMAKTER - INTE SKADA OSKYLDIGA - EZIC AGENT KOMMER IDAG FÖR ATT AVSLÖJA EXTREMISTER"
 "note:EZIC_POISON_MESSENGER","ASSASSIN COMING FROM ANTEGRIA
 
 WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
@@ -1702,68 +1701,68 @@ MUST BE STOPPED
 
 HIS NAME IS KHALED ISTOM
 
-DO NOT FORGET","ASSASSIN COMING FROM ANTEGRIA
+DO NOT FORGET","MÖRDARE KOMMER FRÅN ANTEGRIA
 
-WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
+KOMMER ATT ATTACKERA EZIC AGENT I ARSTOTZKA
 
-MUST BE STOPPED
+MÅSTE STOPPA HONOM
 
-HIS NAME IS KHALED ISTOM
+HANS NAMN ÄR KHALED ISTOM
 
-DO NOT FORGET"
+GLÖM INTE"
 "note:EZIC_HANDLER_SNIPE","KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED KOMMER TILLBAKS - HAN BÄR PÅ INFORMATION PÅ ALLA EZIC AGENTER
 
-CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
+KAN INTE TA CHANSER - DU MÅSTE DÖDA HAN IDAG - MANNEN I RÖD - VI KOMMER ATT GE MÖJLIGHET
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE"
+OM LYCKAS, DU KOMMER ATT BLI ANGRIPEN - MÅSTE OFFRA SIG FÖR ARSTOTZKA - FAMILJ KOMMER BLI I TRYGGHET"
 "note:EZIC_HANDLER_SNIPE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED DÖDADE TVÅ EZIC AGENTER - EN TILL MÖRDARE KOMMER - MAN I RÖD - BÄR INFO PÅ ALLA EZIC AGENTER I ARSTOTZKA
 
-CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+KAN INTE TA CHANSER - DU MÅSTE DÖDA HAN IDAG - MANNEN I RÖD - VI KOMMER ATT GE MÖJLIGHET
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE"
+OM LYCKAS, DU KOMMER ATT BLI ANGRIPEN - MÅSTE OFFRA SIG FÖR ARSTOTZKA - FAMILJ KOMMER BLI I TRYGGHET"
 "note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED TAGEN HAND OM - EN TILL MÖRDARE KOMMER - MAN IN RÖD - BAR INFO PÅ ALLA EZIC AGENTER I ARSTOTZKA
 
-CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+KAN INTE TA CHANSER - DU MÅSTE DÖDA HAN IDAG - MANNEN I RÖD - VI KOMMER ATT GE MÖJLIGHET
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE"
+OM LYCKAS, DU KOMMER ATT BLI ANGRIPEN - MÅSTE OFFRA SIG FÖR ARSTOTZKA - FAMILJ KOMMER BLI I TRYGGHET"
 "note:EZIC_HANDLER_POSTSNIPE","WE HAVE MISSED OUR CHANCE
 
 MAN IN RED SURVIVES
 
 HE NOW TARGETS EZIC AGENTS IN KOLECHIA
 
-OUR PLANS MUST ADAPT","WE HAVE MISSED OUR CHANCE
+OUR PLANS MUST ADAPT","VI HAR MISSAT VÅRAN CHANS
 
-MAN IN RED SURVIVES
+MANNEN I RÖD ÖVERLEVDE
 
-HE NOW TARGETS EZIC AGENTS IN KOLECHIA
+HAN JAGAR EZIC AGETER I KOLECHIA
 
-OUR PLANS MUST ADAPT"
+VÅRA PLANER MÅSTE ADAPTERA"
 "note:EZIC_HANDLER_DIPLO","GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
 
 NEGOTIATIONS MUST BE IMPEDED
 
 ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
 
-EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
+EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","STATEN PLANERAR ATT GE IN TILL KOLECHIAS KRAV OCH ÖVERLÅTA GRESTIN
 
-NEGOTIATIONS MUST BE IMPEDED
+FÖRHANDLINGAR MÅSTE HINDRAS
 
-ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
+TILLÅT KOLECHIAS DIPLOMAT TILLTRÄDE MEN TA  PASSPORT FÖRST
 
-EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY"
+EZIC AGENT FÖLJER FÖR ATT ANTA IDENTITET"
 "note:EZIC_FINAL","GRESTIN CHECKPOINT IS AT AN END
 
 TODAY WE BREAK THIS WALL DOWN
@@ -1772,58 +1771,58 @@ YOU WILL BE SAFE
 
 HOLD YOUR FIRE
 
-* THE ORDER OF THE EZIC STAR","GRESTIN CHECKPOINT IS AT AN END
+* THE ORDER OF THE EZIC STAR","GRESTIN GRÄNSKONTROLL NÄRMAR SITT SLUT
 
-TODAY WE BREAK THIS WALL DOWN
+IDAG BRYTER VI NER MUREN
 
-YOU WILL BE SAFE
+DU KOMMER BLI SÄKER
 
-HOLD YOUR FIRE
+SKJUT INTE
 
-* THE ORDER OF THE EZIC STAR"
+* ORDNINGEN AV EZIC STJÄRNAN"
 "traveler:DEFAULT","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?"
 "traveler:DEFAULT","@It is being confiscated.","@It is being confiscated."
 "traveler:DEFAULT","How will I travel? ; What should I do? ; Why? ; You cannot do this.","How will I travel? ; What should I do? ; Why? ; You cannot do this."
 "traveler:DEFAULT","@Contact number on slip.","@Contact number on slip."
-"traveler:EZIC_INTRO","The Order awaits.","The Order awaits."
+"traveler:EZIC_INTRO","The Order awaits.","Ordningen väntar."
 "traveler:EZIC_CORMAN","Very good.","Very good."
 "traveler:EZIC_CORMAN","Read quickly.","Read quickly."
 "traveler:EZIC_CORMAN","Do not lose this.","Do not lose this."
 "traveler:EZIC_CORMAN","You have something of mine.","You have something of mine."
 "traveler:EZIC_CORMAN","My name is Corman Drex.","My name is Corman Drex."
 "traveler:EZIC_CORMAN","Read the note then return it to me.","Read the note then return it to me."
-"traveler:EZIC_HANDLER_PRE0","Our agents are ready.","Our agents are ready."
-"traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","Starting tomorrow."
-"traveler:EZIC_HANDLER_PRE0","Let them pass.","Let them pass."
-"traveler:EZIC_AGENT0","The Order rises.","The Order rises."
-"traveler:EZIC_AGENT0","The Order knows.","The Order knows."
-"traveler:EZIC_AGENT1","For Arstotzka and the Order.","For Arstotzka and the Order."
-"traveler:EZIC_HANDLER_POST1","Give me the coded documents.","Give me the coded documents."
-"traveler:EZIC_HANDLER_POST1","Both.","Both."
-"traveler:EZIC_HANDLER_EXT","Today.","Today."
-"traveler:EZIC_AGENT_EXT","For Arstotzka and the Order.","For Arstotzka and the Order."
-"traveler:EZIC_AGENT_EXT","The others do not agree, but I believe the man in red is not a threat.","The others do not agree, but I believe the man in red is not a threat."
-"traveler:EZIC_AGENT_EXT","@What?","@What?"
-"traveler:EZIC_AGENT_EXT","Nevermind.","Nevermind."
-"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","Shoot to kill."
-"traveler:EZIC_DIPLO","I require my passport.","I require my passport."
-"traveler:EZIC_DIPLO","@It has been confiscated.","@It has been confiscated."
-"traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","I am Kolechian diplomat here on government request."
-"traveler:EZIC_DIPLO","Return passport at once.","Return passport at once."
-"traveler:EZIC_DIPLO","@Call number on slip to recover.","@Call number on slip to recover."
-"traveler:EZIC_DIPLO","Barbarian.","Barbarian."
-"traveler:EZIC_DIPLO","You cannot do this.","You cannot do this."
-"traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","I saw him enter."
-"traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","Give his passport to me."
-"traveler:EZIC_DIPLO_FOLLOW","Ah good.","Ah good."
-"traveler:EZIC_DIPLO_FOLLOW","I look much the same as him.","I look much the same as him."
-"traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","Just need to shave my mustache."
-"traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","But we all must make sacrifices."
-"traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","Appove the visa."
-"traveler:EZIC_DIPLO_FOLLOW","For Arstotzka and the Order.","For Arstotzka and the Order."
-"traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","This is not what was agreed on."
-"traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","I am sent to collect diplomat's passport."
-"traveler:EZIC_DIPLO_FOLLOW","@I do not have it.","@I do not have it."
+"traveler:EZIC_HANDLER_PRE0","Our agents are ready.","Våra agenter är redo."
+"traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","Från och med imorgon."
+"traveler:EZIC_HANDLER_PRE0","Let them pass.","Låt dom passera."
+"traveler:EZIC_AGENT0","The Order rises.","Ordningen stiger."
+"traveler:EZIC_AGENT0","The Order knows.","Ordningen vet."
+"traveler:EZIC_AGENT1","For Arstotzka and the Order.","För Arstotzka och Ordningen."
+"traveler:EZIC_HANDLER_POST1","Give me the coded documents.","Ge mig de kodade dokumenten."
+"traveler:EZIC_HANDLER_POST1","Both.","Båda."
+"traveler:EZIC_HANDLER_EXT","Today.","Idag."
+"traveler:EZIC_AGENT_EXT","For Arstotzka and the Order.","För Arstotzka och Ordningen."
+"traveler:EZIC_AGENT_EXT","The others do not agree, but I believe the man in red is not a threat.","Dom andra håller inte med, men jag tror inte mannen I röd är ett hot."
+"traveler:EZIC_AGENT_EXT","@What?","@Va?"
+"traveler:EZIC_AGENT_EXT","Nevermind.","Struntsamma."
+"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","Skjut för att döda."
+"traveler:EZIC_DIPLO","I require my passport.","Jag behöver mitt passport."
+"traveler:EZIC_DIPLO","@It has been confiscated.","@Den har varit konfiskerad."
+"traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","Jag är en diplomat av Kolechia här av begäran av staten."
+"traveler:EZIC_DIPLO","Return passport at once.","Ge tillbaks mitt passport genast."
+"traveler:EZIC_DIPLO","@Call number on slip to recover.","@Ring nummret för att återhämta ditt pass."
+"traveler:EZIC_DIPLO","Barbarian.","Barbar."
+"traveler:EZIC_DIPLO","You cannot do this.","Du kan inte göra detta."
+"traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","Jag såg han komma in."
+"traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","Ge mig hans passport."
+"traveler:EZIC_DIPLO_FOLLOW","Ah good.","Mycket bra."
+"traveler:EZIC_DIPLO_FOLLOW","I look much the same as him.","Jag ser nästan lik han."
+"traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","Behöver endast raka mustasch."
+"traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","Men vi all måste göra offer."
+"traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","Godkänn visum."
+"traveler:EZIC_DIPLO_FOLLOW","For Arstotzka and the Order.","För Arstotzka och Ordningen."
+"traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","Detta var inte bestämt."
+"traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","Jag var skickad för att hämta diplomatens passport."
+"traveler:EZIC_DIPLO_FOLLOW","@I do not have it.","@Jag har inte den."
 "traveler:SECRET_POLICE_INTRO","Good morning, inspector.","Good morning, inspector."
 "traveler:SECRET_POLICE_INTRO","You are healthy today yes?","You are healthy today yes?"
 "traveler:SECRET_POLICE_INTRO","I have just few questions for you.","I have just few questions for you."
@@ -1861,63 +1860,63 @@ HOLD YOUR FIRE
 "traveler:SECRET_POLICE_FINAL","I will personally conduct it.","I will personally conduct it."
 "traveler:SECRET_POLICE_FINAL","There is nothing to fear.","There is nothing to fear."
 "traveler:SECRET_POLICE_FINAL","Work hard.","Work hard."
-"traveler:JORJI_BASE","All right! You the best!","All right! You the best!"
-"traveler:JORJI_BASE","Arstotzka the best!","Arstotzka the best!"
-"traveler:JORJI_BASE","Here, take this!","Here, take this!"
-"traveler:JORJI0","Ok! Here we go!","Ok! Here we go!"
-"traveler:JORJI0","Glory to Arstotzka!","Glory to Arstotzka!"
-"traveler:JORJI0","The greatest country!","The greatest country!"
-"traveler:JORJI0","@Where is your passport?","@Where is your passport?"
+"traveler:JORJI_BASE","All right! You the best!","All right! Du är bäst!"
+"traveler:JORJI_BASE","Arstotzka the best!","Arstotzka är bäst!"
+"traveler:JORJI_BASE","Here, take this!","Här, ta detta!"
+"traveler:JORJI0","Ok! Here we go!","Ok! HNu kör vi!"
+"traveler:JORJI0","Glory to Arstotzka!","Ära till Arstotzka!"
+"traveler:JORJI0","The greatest country!","Det bästa landet!"
+"traveler:JORJI0","@Where is your passport?","@Var är ditt passport?"
 "traveler:JORJI0","Passport!","Passport!"
-"traveler:JORJI0","Arstotzka so great, passport not required.","Arstotzka so great, passport not required."
-"traveler:JORJI0","Right?","Right?"
-"traveler:JORJI0","@A passport is required.","@A passport is required."
-"traveler:JORJI0","Ok, ok. I hear you.","Ok, ok. I hear you."
-"traveler:JORJI0","I come back again.","I come back again."
-"traveler:JORJI1","Ok! Hello again!","Ok! Hello again!"
-"traveler:JORJI1","Now I have passport!","Now I have passport!"
-"traveler:JORJI1","Arstotzka still best country for sure!","Arstotzka still best country for sure!"
-"traveler:JORJI1","@This passport is crude fake.","@This passport is crude fake."
-"traveler:JORJI1","Hey now! Is not true!","Hey now! Is not true!"
-"traveler:JORJI1","Is pre-approved!","Is pre-approved!"
-"traveler:JORJI1","@ Cobrastan is not a real country.","@ Cobrastan is not a real country."
+"traveler:JORJI0","Arstotzka so great, passport not required.","Arstotzka så bra, passport behövs inte."
+"traveler:JORJI0","Right?","Eller?"
+"traveler:JORJI0","@A passport is required.","@Ett passport behövs."
+"traveler:JORJI0","Ok, ok. I hear you.","Ok, ok. Jag hör dig."
+"traveler:JORJI0","I come back again.","Jag kommer tillbaks igen."
+"traveler:JORJI1","Ok! Hello again!","Ok! Hej igen!"
+"traveler:JORJI1","Now I have passport!","Nu har jag passport!"
+"traveler:JORJI1","Arstotzka still best country for sure!","Arstotzka fortfarande bästa land!"
+"traveler:JORJI1","@This passport is crude fake.","@Denna passport är en dålig förfalskning."
+"traveler:JORJI1","Hey now! Is not true!","Hörru! Det är inte sant!"
+"traveler:JORJI1","Is pre-approved!","Det är godkänd i förhand!"
+"traveler:JORJI1","@ Cobrastan is not a real country.","@Cobrastan är inte ett riktigt land."
 "traveler:JORJI1","Ok, ok.","Ok, ok."
-"traveler:JORJI1","You no like passport, I understand.","You no like passport, I understand."
-"traveler:JORJI1","I come back again with better one.","I come back again with better one."
-"traveler:JORJI2","Old friend hello!","Old friend hello!"
-"traveler:JORJI2","I am back again!","I am back again!"
-"traveler:JORJI2","This time everything set.","This time everything set."
-"traveler:JORJI2","@You are missing an entry permit.","@You are missing an entry permit."
-"traveler:JORJI2","Oh man you funny guy!","Oh man you funny guy!"
-"traveler:JORJI2","@An entry permit is required.","@An entry permit is required."
-"traveler:JORJI2","Wow, you run very strict border here.","Wow, you run very strict border here."
-"traveler:JORJI2","That is good. Do job right.","That is good. Do job right."
-"traveler:JORJI2","I look for entry thing and come back.","I look for entry thing and come back."
-"traveler:JORJI3","Hey it is me!","Hey it is me!"
-"traveler:JORJI3","Are you happy to see?","Are you happy to see?"
-"traveler:JORJI3","I have everything you ask for now.","I have everything you ask for now."
-"traveler:JORJI3","@Tickets are no longer accepted.","@Tickets are no longer accepted."
-"traveler:JORJI3","Hey no!","Hey no!"
-"traveler:JORJI3","Guy sold me ticket. Say is good!","Guy sold me ticket. Say is good!"
-"traveler:JORJI3","You check again maybe.","You check again maybe."
-"traveler:JORJI3","@Do not come back again.","@Do not come back again."
+"traveler:JORJI1","You no like passport, I understand.","Du gillar inte mitt passport, jag förstår."
+"traveler:JORJI1","I come back again with better one.","Jag kommer tillbaks med ett ny pass."
+"traveler:JORJI2","Old friend hello!","Hej min gammal vän!"
+"traveler:JORJI2","I am back again!","Jag är tillbaks!"
+"traveler:JORJI2","This time everything set.","Denna gång allting är klart."
+"traveler:JORJI2","@You are missing an entry permit.","@Du saknar inresetillstånd."
+"traveler:JORJI2","Oh man you funny guy!","Gud vad du är rolig!"
+"traveler:JORJI2","@An entry permit is required.","@Du behöver inresetillstånd."
+"traveler:JORJI2","Wow, you run very strict border here.","Wow, du kör ett väldigt strikt landgräns här."
+"traveler:JORJI2","That is good. Do job right.","Det är bra. Gör ditt jobb rätt."
+"traveler:JORJI2","I look for entry thing and come back.","Jag letar efter ingångsgrej och kommer tillbaks."
+"traveler:JORJI3","Hey it is me!","Hej, det är jag!"
+"traveler:JORJI3","Are you happy to see?","Är du glad att se mig?"
+"traveler:JORJI3","I have everything you ask for now.","Jag har allt du frågar efter."
+"traveler:JORJI3","@Tickets are no longer accepted.","@Igångsbiljetter är inte längre giltiga."
+"traveler:JORJI3","Hey no!","Hörru du!"
+"traveler:JORJI3","Guy sold me ticket. Say is good!","Grabben sålde mig biljetten. Sa att det var bra!"
+"traveler:JORJI3","You check again maybe.","Kontrollera igen kanske."
+"traveler:JORJI3","@Do not come back again.","@Kom inte tillbaks igen."
 "traveler:JORJI3","Haha!","Haha!"
-"traveler:JORJI3","You nice guy but I have business in Arstotzka.","You nice guy but I have business in Arstotzka."
-"traveler:JORJI3","I get right papers and come see you.","I get right papers and come see you."
-"traveler:JORJI4","Hello my guy!","Hello my guy!"
-"traveler:JORJI4","Ok. Today is day!","Ok. Today is day!"
-"traveler:JORJI4","Look at all good papers.","Look at all good papers."
-"traveler:JORJI4","Was not easy.","Was not easy."
-"traveler:JORJI4","Or cheap! Haha!","Or cheap! Haha!"
-"traveler:JORJI4","@I told you not to come back.","@I told you not to come back."
-"traveler:JORJI4","This is crap.","This is crap."
-"traveler:JORJI4","You know what? Forget it.","You know what? Forget it."
-"traveler:JORJI4","Arstotzka worst country.","Arstotzka worst country."
-"traveler:JORJI4","You worst person.","You worst person."
-"traveler:JORJI4","Thank you so much!","Thank you so much!"
-"traveler:JORJI4","If I am honest to you, I was little nervous.","If I am honest to you, I was little nervous."
-"traveler:JORJI4","Even with right papers is hard to say.","Even with right papers is hard to say."
-"traveler:JORJI4","Ok bye!","Ok bye!"
+"traveler:JORJI3","You nice guy but I have business in Arstotzka.","Du är snäll kille men jag har business I Arstotzka."
+"traveler:JORJI3","I get right papers and come see you.","Jag hämtar rätt papper och ser dig igen."
+"traveler:JORJI4","Hello my guy!","Hej min vän!"
+"traveler:JORJI4","Ok. Today is day!","Ok. Idag är dagen!"
+"traveler:JORJI4","Look at all good papers.","Se på alla papper."
+"traveler:JORJI4","Was not easy.","Var inte enkelt."
+"traveler:JORJI4","Or cheap! Haha!","Eller billigt! Haha!"
+"traveler:JORJI4","@I told you not to come back.","@Jag bad åt dig att inte komma tillbaks."
+"traveler:JORJI4","This is crap.","Detta är skit."
+"traveler:JORJI4","You know what? Forget it.","Vet du vad? Glöm det."
+"traveler:JORJI4","Arstotzka worst country.","Arstotzka värsta land."
+"traveler:JORJI4","You worst person.","Du är värsta person."
+"traveler:JORJI4","Thank you so much!","Tack så mycket!"
+"traveler:JORJI4","If I am honest to you, I was little nervous.","Om jag får vara ärlig, jag är lite nervös."
+"traveler:JORJI4","Even with right papers is hard to say.","Även med rätt dokument det är svårt att säga."
+"traveler:JORJI4","Ok bye!","Ok, hejdå!"
 "traveler:JORJI_SMUGGLE0","Again I am here!","Again I am here!"
 "traveler:JORJI_SMUGGLE0","Everything all set up now.","Everything all set up now."
 "traveler:JORJI_SMUGGLE0","I come through often to see you.","I come through often to see you."
